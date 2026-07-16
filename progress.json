@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T15:53:51.375Z",
+  "generated_at": "2026-09-26T15:53:53.133Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -52,6 +52,32 @@
       "last_pushed_at": "2026-07-15T16:00:28.713Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-07-16T14:54:06.001Z",
+      "last_pushed_at": "2026-07-16T14:54:06.001Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-07-16T17:20:03.303Z",
+      "last_pushed_at": "2026-07-16T17:20:03.303Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
